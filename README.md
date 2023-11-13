@@ -10,7 +10,6 @@ Las técnicas asignadas en este caso son:
 # Estructura del Repositorio
 El repositorio está organizado de la siguiente manera:
 
-- PEC2_Enunciado.pdf: El enunciado de la PEC2.
 - /Treemap: Contiene los archivos relacionados con la implementación y resultados de la técnica Treemap.
 - /Proportional_Symbol_Map: Contiene los archivos relacionados con la implementación y resultados de la técnica Proportional Symbol Map.
 - /Hexagon_Binning: Contiene los archivos relacionados con la implementación y resultados de la técnica Hexagon Binning.
