@@ -5,6 +5,6 @@ Esta carpeta contiene la implementación y resultados de la técnica Treemap par
 - pec2_treemap.html: Archivo HTML que muestra la visualización generada como resultado de la implementación.
 - pec2_treemap.ipynb: Jupyter Notebook que contiene el código para crear la anterior visualización.
 
-# Detalles del Alumno (Gloria María Manresa Santamaría)
+# Detalles del Alumno
 - Nombre del Alumno: Gloria María Manresa Santamaría
 - Fecha: 13/11/2023
